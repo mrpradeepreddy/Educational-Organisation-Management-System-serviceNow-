@@ -84,6 +84,7 @@ Scripting: JavaScript (Client Scripts)
 Tools: Flow Designer, Form Designer, Update Sets, ServiceNow Studio
 
 📂 Modules Overview
+
 /AdmissionForm – Collects applicant and parental details; integrated with approval flow
 
 /SalesforceTable – School-side data management (contact info, grade)
@@ -93,6 +94,7 @@ Tools: Flow Designer, Form Designer, Update Sets, ServiceNow Studio
 /ClientScripts – JavaScript-based validation and automation
 
 📌 Use Case
+
 Designed for schools and educational institutions, this system replaces slow, manual processes with a fully digital and automated approach—simplifying data handling and enhancing transparency in the admission process.
 
 🔮 Future Enhancements
