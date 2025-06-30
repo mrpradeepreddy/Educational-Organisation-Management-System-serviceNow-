@@ -4,7 +4,8 @@
 This project is a complete student admission and progress tracking system developed on the ServiceNow platform. It leverages low-code tools, client scripting, and Flow Designer to automate the admission process, record academic performance, and manage school-level data—all in a streamlined, user-friendly interface.
 
 🚀 Features
-📋 Admission Module
+
+📋 Admission Module-
 Collects detailed student and parent information through a custom form. Includes auto-generated admission numbers and supports validation and approval workflows.
 
 Fields:
