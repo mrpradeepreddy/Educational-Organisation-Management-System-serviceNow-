@@ -107,3 +107,5 @@ Email/SMS notifications
 Fee tracking integration
 
 Admission analytics dashboard
+
+Demo Video : https://drive.google.com/file/d/1UI0qTG0gdfkdzfOFbUxeQ5lkOwv8Pw9t/view?usp=sharing
